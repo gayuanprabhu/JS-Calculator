@@ -14,8 +14,7 @@ It performs basic math operations:
 
 ## 🖼️ Screenshot
 
-![Calculator Screenshot](Screenshot from 2025-10-07 14-30-12.png)
-
+![Calculator Screenshot](screenshot.png)
 
 ---
 
