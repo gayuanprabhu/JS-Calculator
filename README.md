@@ -14,7 +14,7 @@ It performs basic math operations:
 
 ## 🖼️ Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot from 2025-10-07 14-30-12.png)
 
 
 ---
@@ -30,8 +30,8 @@ It performs basic math operations:
 ## 📁 Files
 
 - `index.html` – main layout
-- `style.css` – styling
-- `script.js` – calculator logic
+- `styles.css` – styling
+- `index.js` – calculator logic
 
 ---
 
